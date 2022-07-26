@@ -7,3 +7,6 @@ Just check it is
 
 
 working on linux vs code in kali linux thanks..
+
+## BuildSpec
+Configured success
